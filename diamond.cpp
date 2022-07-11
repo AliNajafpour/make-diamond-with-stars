@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int n , l = 1 ,d = 1,e,f,g,h;
-    char s1 = '*' , s2 = '#';
+    char s1 = '*' , s2 = ' ';
     cin>>n;
     h = n;
     while (h!=0){
